@@ -1,0 +1,16 @@
+ABC Inventory Classification Summary
+-------------------------------------
+
+Revenue ABC distribution:
+ABC_class
+C    1209
+B     373
+A     280
+Name: count, dtype: int64
+
+Profit ABC distribution:
+ABC_profit
+C    1209
+B     373
+A     280
+Name: count, dtype: int64
